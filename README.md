@@ -3,6 +3,9 @@
 
 
 ## Automating the process of downloading mongodb
+#### Key points
+- Downloads MongoDB
+- Changes MongoDB default settings to allow app vm to access it
 ```
 #!/bin/bash
 
@@ -59,6 +62,13 @@ sudo systemctl enable mongod
 ```
 
 ## Automating the launch of app
+#### Key points
+- Installs Nginx (web server)
+- Downloads app folder from github
+- Creates connection between DB vm
+- Uses reverse proxy to eliminate need of address extension
+- Installs nodejs to run the app
+- Starts the app!
 ```
 #!/bin/bash
 
