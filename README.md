@@ -1,4 +1,4 @@
-# Using User Data Automation in Two Tier Architecture
+# User Data Automation in Two Tier Architecture
 ![Alt text](<Screenshot 2023-07-21 124019.png>)
 
 
