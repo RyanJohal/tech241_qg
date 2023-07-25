@@ -106,7 +106,7 @@ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 
 
 # add in env
-export DB_HOST=mongodb://172.31.35.56:27017/posts
+export DB_HOST=mongodb://172.31.44.161:27017/posts
 
 
 # install node.js
