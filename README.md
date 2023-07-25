@@ -1,4 +1,4 @@
-# Two Tier Architecture
+# Using User Data Automation in Two Tier Architecture
 ![Alt text](<Screenshot 2023-07-21 124019.png>)
 
 
@@ -14,7 +14,7 @@
 # update
 sudo apt update -y
 
- 
+
 
 # upgrade
 sudo apt upgrade -y
